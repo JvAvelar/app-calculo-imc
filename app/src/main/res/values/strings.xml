@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculadora IMC</string>
+    <string name="fill_your_data">Insira seus dados</string>
+    <string name="heigth">Altura</string>
+    <string name="weigth">Peso</string>
+    <string name="gender">Gênero</string>
+    <string name="result">"Seu IMC: "</string>
+    <string name="calculate_imc">Calcular IMC\n</string>
+    <string name="information_weigth"></string>
+    <string name="message_error"> Preencha os campos corretamente.</string>
+</resources>
